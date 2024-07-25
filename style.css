@@ -29,6 +29,8 @@ body {
 .title {
     display: flex;
     padding: 64px 128px;
+    justify-content: center;
+    align-items: center;
 }
 
 .title-text {
